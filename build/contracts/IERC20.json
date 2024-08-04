@@ -23630,7 +23630,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-08-04T11:13:55.438Z",
+  "updatedAt": "2024-08-04T11:19:01.926Z",
   "devdoc": {
     "events": {
       "Approval(address,address,uint256)": {

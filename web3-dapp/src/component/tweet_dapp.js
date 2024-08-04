@@ -106,8 +106,6 @@ export default function TweetDapp() {
 
   async function showAccTweets() {
     try {
-
-
       if (currentAccount) {
         let tweets = await contract.methods.getTweets().call({ from: currentAccount })
         setTweets(tweets)
